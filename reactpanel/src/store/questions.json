@@ -1,0 +1,80 @@
+[
+    {
+        "questionID":1,
+        "questionCategories":"Bilim ve teknoloji",
+        "questionDetails":"Aya ilk insan kaç yılında ayak basmıştır?",
+        "questionAnswer":{
+            "A":1969,
+            "B":1963,
+            "C":1967,
+            "D":1960
+        },
+        "questionTrue":"A"
+
+    },
+    {
+        "questionID":2,
+        "questionCategories":"Bilim ve teknoloji",
+        "questionDetails":"Suyun kaynama santigrat derecesi kaçtır?",
+        "questionAnswer":{
+            "A":95,
+            "B":100,
+            "C":98,
+            "D":105
+        },
+        "questionTrue":"B"
+
+    },
+    {
+        "questionID":3,
+        "questionCategories":"Genel Kültür",
+        "questionDetails":"Dünyamızda kaç kıta vardır?",
+        "questionAnswer":{
+            "A":5,
+            "B":6,
+            "C":7,
+            "D":8
+        },
+        "questionTrue":"C"
+
+    },
+    {
+        "questionID":4,
+        "questionCategories":"Genel Kültür",
+        "questionDetails":"İstanbul kaç yılında fethedildi?",
+        "questionAnswer":{
+            "A":1456,
+            "B":1452,
+            "C":1455,
+            "D":1453
+        },
+        "questionTrue":"D"
+
+    },
+    {
+        "questionID":5,
+        "questionCategories":"Tarih",
+        "questionDetails":"Osmanlının kuruluş tarihi kaçtır?",
+        "questionAnswer":{
+            "A":1299,
+            "B":1303,
+            "C":1304,
+            "D":1295
+        },
+        "questionTrue":"A"
+
+    },
+    {
+        "questionID":6,
+        "questionCategories":"Tarih",
+        "questionDetails":"Osmanlı imparatorluğunda toplam kaç padişah olmuştur?",
+        "questionAnswer":{
+            "A":35,
+            "B":36,
+            "C":37,
+            "D":38
+        },
+        "questionTrue":"B"
+
+    }
+]
